@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RoomDBTest</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="new_note">New Note</string>
+    <string name="btn_save">Save</string>
+    <string name="saved">Note Saved</string>
+    <string name="not_saved">Note not saved</string>
+    <string name="no_note">No Notes</string>
+</resources>
